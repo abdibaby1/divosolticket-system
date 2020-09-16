@@ -1,30 +1,3 @@
-/**
- * ###############################################################################################
- *  ____                                        _     _____              _             _
- * |  _ \  (_)  ___    ___    ___    _ __    __| |   |_   _| (_)   ___  | | __   ___  | |_   ___
- * | | | | | | / __|  / __|  / _ \  | '__|  / _` |     | |   | |  / __| | |/ /  / _ \ | __| / __|
- * | |_| | | | \__ \ | (__  | (_) | | |    | (_| |     | |   | | | (__  |   <  |  __/ | |_  \__ \
- * |____/  |_| |___/  \___|  \___/  |_|     \__,_|     |_|   |_|  \___| |_|\_\  \___|  \__| |___/
- * 
- * ---------------------
- *      Quick Start
- * ---------------------
- * 
- * 	> For detailed instructions, visit the GitHub repository and read the documentation:
- * 	https://github.com/eartharoid/DiscordTickets/wiki
- * 
- * 	> IMPORTANT: Also edit the TOKEN in 'user/.env'
- * 
- * ---------------------
- *       Support
- * ---------------------
- * 
- * 	> Information: https://github.com/eartharoid/DiscordTickets/#readme
- * 	> Discord Support Server: https://go.eartharoid.me/discord
- * 	> Wiki: https://github.com/eartharoid/DiscordTickets/wiki
- * 
- * ###############################################################################################
- */
 
 module.exports = {
 	prefix: '-',
