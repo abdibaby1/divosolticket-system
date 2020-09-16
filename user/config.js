@@ -1,7 +1,7 @@
 
 module.exports = {
 	prefix: '-',
-	name: 'DiscordTickets',
+	name: 'HSticketbot',
 	activities: ['-new', 'with tickets', 'for new tickets'],
 	activity_types: ['PLAYING', 'PLAYING', 'WATCHING'],
 	colour: '#009999',
